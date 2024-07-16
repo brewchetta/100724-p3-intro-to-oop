@@ -32,9 +32,9 @@
 
 4. Give humans a method `say_full_name` which returns their concatenated `first_name` and `last_name`.
 
-5. Give humans a method `happy_birthday` which increments that human's age by 1.
-
 6. Give humans a property `age`. When someone attempts to set a human's `age` directly it instead doesn't change and returns the string `"Quit lying about your age!"`.
+
+5. Give humans a method `happy_birthday` which increments that human's age by 1.
 
 ## Can You Answer:
 
